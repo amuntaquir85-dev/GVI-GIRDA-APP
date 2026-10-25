@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512px" height="512px" viewBox="0 0 512 512" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="512" height="512" style="fill:rgb(0%,0%,0%);fill-opacity:0.121569;stroke:none;"/>
+  </g>
+</mask>
+<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1" y2="1" gradientTransform="matrix(360,0,0,360,76,20)">
+<stop offset="0" style="stop-color:rgb(96.078431%,61.960784%,4.313725%);stop-opacity:1;"/>
+<stop offset="0.5" style="stop-color:rgb(98.431373%,74.901961%,14.117647%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(85.098039%,46.666667%,2.352941%);stop-opacity:1;"/>
+</linearGradient>
+<clipPath id="clip1">
+  <rect x="0" y="0" width="512" height="512"/>
+</clipPath>
+<g id="surface5" clip-path="url(#clip1)">
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear0);" d="M 436 200 C 436 100.589844 355.410156 20 256 20 C 156.589844 20 76 100.589844 76 200 C 76 299.410156 156.589844 380 256 380 C 355.410156 380 436 299.410156 436 200 Z M 436 200 "/>
+</g>
+<linearGradient id="linear1" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1" y2="1" gradientTransform="matrix(292,0,0,140,110,130)">
+<stop offset="0" style="stop-color:rgb(96.078431%,61.960784%,4.313725%);stop-opacity:1;"/>
+<stop offset="0.5" style="stop-color:rgb(98.431373%,74.901961%,14.117647%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(85.098039%,46.666667%,2.352941%);stop-opacity:1;"/>
+</linearGradient>
+<mask id="mask1">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="512" height="512" style="fill:rgb(0%,0%,0%);fill-opacity:0.85098;stroke:none;"/>
+  </g>
+</mask>
+<linearGradient id="linear2" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1" y2="1" gradientTransform="matrix(152,0,0,100,180,240)">
+<stop offset="0" style="stop-color:rgb(96.078431%,61.960784%,4.313725%);stop-opacity:1;"/>
+<stop offset="0.5" style="stop-color:rgb(98.431373%,74.901961%,14.117647%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(85.098039%,46.666667%,2.352941%);stop-opacity:1;"/>
+</linearGradient>
+<clipPath id="clip2">
+  <rect x="0" y="0" width="512" height="512"/>
+</clipPath>
+<g id="surface8" clip-path="url(#clip2)">
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear2);" d="M 180 240 L 180 300 C 180 326.667969 205.332031 340 256 340 C 306.667969 340 332 326.667969 332 300 L 332 240 L 256 275 Z M 180 240 "/>
+</g>
+<linearGradient id="linear3" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1" y2="1" gradientTransform="matrix(12,0,0,104,380,196)">
+<stop offset="0" style="stop-color:rgb(96.078431%,61.960784%,4.313725%);stop-opacity:1;"/>
+<stop offset="0.5" style="stop-color:rgb(98.431373%,74.901961%,14.117647%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(85.098039%,46.666667%,2.352941%);stop-opacity:1;"/>
+</linearGradient>
+<linearGradient id="linear4" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1" y2="1" gradientTransform="matrix(28,0,0,28,372,301)">
+<stop offset="0" style="stop-color:rgb(96.078431%,61.960784%,4.313725%);stop-opacity:1;"/>
+<stop offset="0.5" style="stop-color:rgb(98.431373%,74.901961%,14.117647%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(85.098039%,46.666667%,2.352941%);stop-opacity:1;"/>
+</linearGradient>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(5.882353%,9.019608%,16.470589%);fill-opacity:1;" d="M 120 0 L 392 0 C 458.273438 0 512 53.726562 512 120 L 512 392 C 512 458.273438 458.273438 512 392 512 L 120 512 C 53.726562 512 0 458.273438 0 392 L 0 120 C 0 53.726562 53.726562 0 120 0 Z M 120 0 "/>
+<use xlink:href="#surface5" mask="url(#mask0)"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear1);" d="M 256 130 L 110 200 L 256 270 L 402 200 Z M 256 130 "/>
+<use xlink:href="#surface8" mask="url(#mask1)"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear3);" d="M 386 196 C 389.3125 196 392 198.6875 392 202 L 392 294 C 392 297.3125 389.3125 300 386 300 C 382.6875 300 380 297.3125 380 294 L 380 202 C 380 198.6875 382.6875 196 386 196 Z M 386 196 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear4);" d="M 400 315 C 400 307.269531 393.730469 301 386 301 C 378.269531 301 372 307.269531 372 315 C 372 322.730469 378.269531 329 386 329 C 393.730469 329 400 322.730469 400 315 Z M 400 315 "/>
+</g>
+</svg>
