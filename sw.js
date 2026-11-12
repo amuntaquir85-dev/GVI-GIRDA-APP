@@ -1,4 +1,4 @@
-const CACHE = 'gvi-v1.0.0';
+const CACHE = 'gvi-v6.0.0';
 const ASSETS = [
   './',
   './index.html',
